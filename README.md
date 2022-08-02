@@ -1,10 +1,10 @@
 # IT School news
 
-This is the final project from my Web Development course that I teach @ IT School.
+This is the final project from my Web Development course @ IT School.
 
 ## Demo
 
-The project is deployed at [itschool-news.netlify.app](https://itschool-news.netlify.app).
+The project is deployed at [https://itschoolnewscristianb.netlify.app
 
 ## Local usage
 
